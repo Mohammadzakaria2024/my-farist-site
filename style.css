@@ -1,0 +1,155 @@
+body{
+
+    font-family: "Azeret Mono", monospace;
+}
+.foder{
+    justify-content: space-between;
+    display: flex;
+    width: 1070px;
+    margin: 0 auto;
+}
+.button1{
+    padding: 5px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.banner{
+     width: 1170px;
+     background-image: url(Hero-bg.png );
+     margin: 0 auto;
+     text-align: center;
+     margin-bottom: 50px;
+     
+    
+},
+.button2{
+    color: brown;
+    background-color: blue;
+
+}
+.service{
+    margin: 0 auto;
+    margin-bottom: 30px;
+    background-color: rgb(226, 226, 227);
+    width: 1070px;
+    border-radius: 10px;
+   height: 1350px;
+    
+   
+
+}
+.service1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(254, 254, 255, 0.714);
+    width:870px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    
+
+}
+.serviceitems{
+padding: 30px;
+}
+
+.Current{
+    width:1070px;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.Current1{
+    display: flex;
+justify-content: space-between;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+ 
+}
+
+.Box1{
+
+    background-color: rgb(196, 201, 207);
+    border-radius: 10px;
+    margin-right: 60px;
+    
+
+
+}
+
+.Box2{
+
+    background-color: rgb(216, 201, 182);
+    border-radius: 10px;
+    margin-right: 60px;
+ 
+}
+
+.Box3{
+
+    background-color: rgb(130, 128, 126);
+    border-radius: 10px;
+   
+
+}
+.Next{
+
+    margin-bottom: 30px;
+}
+
+.Nextterget{
+display: flex;
+border: 1px black solid;
+border-radius: 10px;
+padding: 10px;
+text-align: left;
+margin-bottom: 15PX;
+}
+
+
+.Nextterget, img {
+    padding: 20px;
+}
+.Support{
+
+    margin-top: 20px;
+    background-image: url(handshake.jpg );
+    background-image: cover;
+    border-radius: 15px;
+    padding: 20px;
+    color: aliceblue;
+
+}
+.Support1{
+
+    background-color: azure;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: medium;
+    
+}
+
+.header{
+    justify-content: space-between;
+    display: flex;
+    width: 1070px;
+    margin: 0 auto;
+    background-color: rgb(223, 223, 222);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.video{
+
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px black solid;
+    width: 1070px;
+    margin: auto;
+}
